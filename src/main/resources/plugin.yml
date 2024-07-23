@@ -1,0 +1,18 @@
+name: LanRhymePlugin
+version: '1.0-SNAPSHOT'
+main: com.LanRhyme.LanRhymePlugin
+api-version: '1.21'
+load: STARTUP
+authors: [ LanRhyme ]
+description: 随便写的插件
+
+commands:
+  showleaderboard:
+    description: Shows the coin leaderboard above the player's head
+    usage: /<command>
+  addpointpay_consume:
+    description: aaaaaaa
+    usage: /addpointpay_consume <player> <amount>
+  refreshleaderboard:
+    description: aaaab
+    usage: /<command>
